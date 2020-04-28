@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hershyz/sourcetools/master/img/logo.png"/>
+<img src="https://raw.githubusercontent.com/srctools/sourcetools/master/img/logo.png"/>
 <p>Cross platform, general CLI developer tools that can be used when working with large projects and huge codebases.</p>
 <p>Sourcetools utilizes its own <strong>library</strong>, which can be found <a href="https://www.github.com/srctools/codebase">here</a>.</p>
 
@@ -20,3 +20,5 @@
   Windows binaries have already been compiled for all utilities, and can be found in <code>sourcetools/bin</code>.
   Any utility can be compiled into an executable for macOS or Linux using: <code>go build (filename).go codebase.go</code>
 </p>
+<br>
+<p>View the original repository at <a href="https://www.github.com/hershyz/sourcetools">hershyz/sourcetools</a>.</p>
